@@ -1,0 +1,9 @@
+core_cm3.h:930:22:void NVIC_EnableIRQ(IRQn_Type)	16	static
+core_cm3.h:984:22:void NVIC_ClearPendingIRQ(IRQn_Type)	16	static
+core_cm3.h:1014:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+main.cpp:42:17:void SetupRunTimeStatsTimer()	24	static
+main.cpp:60:6:void delay(unsigned int)	24	static
+main.cpp:71:17:void TIM4_IRQHandler()	8	static
+main.cpp:81:6:void ledBlinkTask(void*)	16	static
+main.cpp:102:6:void task2(void*)	16	static
+main.cpp:110:5:int main()	16	static
